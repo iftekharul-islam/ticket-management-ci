@@ -1,0 +1,166 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-25 01:14:39 --> 404 Page Not Found:  ip- 17.121.113.176 https://888seats.com/category/sports/soccer/assets/logo/logo.png
+ERROR - 2021-10-25 03:09:11 --> 404 Page Not Found:  ip- 17.121.112.145 https://888seats.com/category/sports/baseball/assets/logo/logo.png
+ERROR - 2021-10-25 04:38:51 --> 404 Page Not Found:  ip- 17.121.115.13 https://888seats.com/blog/assets/logo/favicon.ico
+ERROR - 2021-10-25 04:39:07 --> 404 Page Not Found:  ip- 17.121.113.143 https://888seats.com/blog/assets/logo/touch-icon-iphone-retina.jpg
+ERROR - 2021-10-25 05:31:02 --> 404 Page Not Found:  ip- 17.121.115.65 https://888seats.com/category/sports/assets/logo/logo.png
+ERROR - 2021-10-25 06:10:21 --> 404 Page Not Found:  ip- 17.121.115.61 https://888seats.com/category/theater/assets/logo/logo.png
+ERROR - 2021-10-25 07:51:22 --> 404 Page Not Found:  ip- 157.55.39.110 https://www.888seats.com/blog/2014/12
+ERROR - 2021-10-25 00:01:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 00:16:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 00:31:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 00:41:24 --> 404 Page Not Found: /index ip- 157.55.39.159 https://888seats.com/nfl-football/baltimore-ravens-tickets/08-29-2019-landover-md-fedexfield-parking-lots
+ERROR - 2021-10-25 00:46:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 01:01:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 01:16:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 01:31:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 01:36:53 --> 404 Page Not Found: /index ip- 207.46.13.167 https://888seats.com/nfl-football/oakland-raiders-tickets
+ERROR - 2021-10-25 01:46:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 02:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 02:01:55 --> 404 Page Not Found: /index ip- 207.46.13.167 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 02:16:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 02:31:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 02:46:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 03:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 03:16:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 03:31:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 03:32:18 --> 404 Page Not Found: /index ip- 159.65.76.23 https://888seats.com/888seats.com
+ERROR - 2021-10-25 03:32:18 --> 404 Page Not Found: /index ip- 159.65.76.23 https://888seats.com/admin
+ERROR - 2021-10-25 03:43:16 --> 404 Page Not Found: /index ip- 157.55.39.110 https://888seats.com/nfl-football/kansas-city-chiefs-tickets/12-15-2019-kansas-city-mo-arrowhead-stadium
+ERROR - 2021-10-25 03:46:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 04:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 04:16:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 14:30:31 --> 404 Page Not Found:  ip- 47.254.170.171 http://888seats.com/blog/assets/posts/images/1582116343.jpg
+ERROR - 2021-10-25 14:30:36 --> 404 Page Not Found:  ip- 47.254.170.171 http://888seats.com/blog/assets/posts/images/1582112267.jpg
+ERROR - 2021-10-25 14:30:38 --> 404 Page Not Found:  ip- 47.254.170.171 http://888seats.com/blog/assets/posts/images/1582110997.jpg
+ERROR - 2021-10-25 14:30:43 --> 404 Page Not Found:  ip- 47.254.170.171 http://888seats.com/blog/assets/posts/images/1588412593.jpg
+ERROR - 2021-10-25 04:31:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 04:43:25 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/authenticate
+ERROR - 2021-10-25 04:46:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 05:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 05:05:13 --> 404 Page Not Found: /index ip- 66.249.64.207 https://www.888seats.com/contact-us
+ERROR - 2021-10-25 15:11:10 --> 404 Page Not Found:  ip- 17.121.114.16 http://888seats.com/blog/assets/posts/images/1582116343.jpg
+ERROR - 2021-10-25 05:16:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 05:17:03 --> 404 Page Not Found: /index ip- 207.46.13.147 https://www.888seats.com/nhl-hockey/detroit-red-wings-tickets
+ERROR - 2021-10-25 05:31:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 05:39:43 --> 404 Page Not Found: /index ip- 207.46.13.133 https://www.888seats.com/mlb-baseball/chicago-cubs-tickets/09-15-2019-chicago-il-wrigley-field
+ERROR - 2021-10-25 05:46:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 05:51:37 --> 404 Page Not Found: /index ip- 40.77.167.66 https://888seats.com/musical/dirty-dancing
+ERROR - 2021-10-25 06:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 06:16:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 06:31:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 06:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 07:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 07:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 07:24:52 --> 404 Page Not Found: /index ip- 8.209.68.171 http://888seats.com/uploads/cache/slider_homepage/uploads/media/54328997e26b9.jpeg
+ERROR - 2021-10-25 07:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 07:46:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 08:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 08:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 18:23:41 --> 404 Page Not Found:  ip- 66.249.64.42 http://888seats.com/blog/hot/baltimore-ravens-superbowl-50
+ERROR - 2021-10-25 08:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 08:46:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 09:01:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 09:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 09:27:07 --> 404 Page Not Found: /index ip- 154.6.20.62 http://mail.888seats.com/.env
+ERROR - 2021-10-25 09:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 09:36:17 --> 404 Page Not Found: /index ip- 157.55.39.159 https://www.888seats.com/nhl-hockey/nashville-predatorsv-tickets
+ERROR - 2021-10-25 09:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 09:51:29 --> 404 Page Not Found: /index ip- 13.89.140.22 https://www.888seats.com/comedy
+ERROR - 2021-10-25 10:01:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 10:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 10:29:30 --> 404 Page Not Found: /index ip- 216.201.82.194 http://888seats.com/wordpress
+ERROR - 2021-10-25 10:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 10:43:07 --> 404 Page Not Found: /index ip- 157.55.39.110 https://www.888seats.com/mlb-baseball/chicago-cubs-tickets/08-21-2019-chicago-il-wrigley-field
+ERROR - 2021-10-25 10:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 11:01:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 11:06:44 --> 404 Page Not Found: /index ip- 154.6.20.62 http://888seats.com/.env
+ERROR - 2021-10-25 11:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 11:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 11:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 11:51:30 --> 404 Page Not Found: /index ip- 40.77.167.66 https://www.888seats.com/mlb-baseball/chicago-cubs-tickets/08-31-2019-chicago-il-wrigley-field
+ERROR - 2021-10-25 11:52:22 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:52:30 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:52:35 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:52:43 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:52:47 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:52:55 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:53:02 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:53:13 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:53:20 --> 404 Page Not Found: /index ip- 5.9.155.226 https://888seats.com/venue-results
+ERROR - 2021-10-25 11:53:41 --> 404 Page Not Found: /index ip- 5.9.155.226 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 11:53:47 --> 404 Page Not Found: /index ip- 5.9.155.226 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 12:01:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 12:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 12:31:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 12:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 13:01:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 13:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 13:31:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 13:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 14:01:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 14:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 14:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 14:46:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 15:01:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 15:16:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 15:31:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 15:46:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 16:01:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 16:16:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 16:31:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 16:46:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 17:01:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 17:02:25 --> 404 Page Not Found: /index ip- 114.119.130.97 http://888seats.com/theatre/trevor-noah-tickets.html
+ERROR - 2021-10-25 17:16:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 17:20:45 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:21:24 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:22:07 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:22:21 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:23:01 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:23:15 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:23:46 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:23:59 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:24:31 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:24:44 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 17:31:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 17:46:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 18:01:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 18:03:10 --> 404 Page Not Found: /index ip- 216.244.66.195 http://888seats.com/mlb-baseball/mlb-spring-training/03-21-2019-clearwater-fl-spectrum-field
+ERROR - 2021-10-25 18:16:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 18:16:34 --> 404 Page Not Found: /index ip- 95.163.255.160 https://www.888seats.com/arts-theater/you-can-t-take-it-with-you-tickets
+ERROR - 2021-10-25 18:19:54 --> 404 Page Not Found: /index ip- 157.55.39.157 https://www.888seats.com/mlb-baseball/chicago-cubs-tickets/08-30-2019-chicago-il-wrigley-field
+ERROR - 2021-10-25 18:31:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 18:46:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 19:01:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 19:02:16 --> 404 Page Not Found: /index ip- 157.55.39.159 https://www.888seats.com/resetting/request
+ERROR - 2021-10-25 19:16:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 19:22:26 --> 404 Page Not Found: /index ip- 40.77.167.66 https://www.888seats.com/nba-basketball/toronto-raptors-tickets/02-03-2019-toronto-on-scotiabank-arena
+ERROR - 2021-10-25 19:31:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 19:39:50 --> 404 Page Not Found: /index ip- 207.46.13.133 https://888seats.com/resetting
+ERROR - 2021-10-25 19:44:16 --> 404 Page Not Found: /index ip- 52.158.175.168 https://www.888seats.com/nfl-football/new-york-jets-tickets
+ERROR - 2021-10-25 19:46:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 20:01:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 20:16:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 20:31:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 20:46:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 20:53:23 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/hot-quicken-loans-arena-tickets/01-11-2019-cleveland-oh-quicken-loans-arena
+ERROR - 2021-10-25 21:01:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 21:16:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 21:31:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 21:46:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 22:01:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 22:16:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 22:31:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 22:46:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 22:57:09 --> 404 Page Not Found: /index ip- 40.77.167.66 https://888seats.com/comedy/sebastian-maniscalco-tickets
+ERROR - 2021-10-25 23:01:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 23:05:31 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 23:05:57 --> 404 Page Not Found: /index ip- 211.249.246.149 https://www.888seats.com/venue-results
+ERROR - 2021-10-25 23:16:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 23:31:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 23:38:05 --> 404 Page Not Found: /index ip- 66.249.64.35 https://888seats.com/ads.txt
+ERROR - 2021-10-25 23:38:36 --> 404 Page Not Found: /index ip- 66.249.64.48 http://888seats.com/ads.txt
+ERROR - 2021-10-25 23:46:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-10-25 23:49:32 --> 404 Page Not Found: /index ip- 157.55.39.110 https://www.888seats.com/venue-results

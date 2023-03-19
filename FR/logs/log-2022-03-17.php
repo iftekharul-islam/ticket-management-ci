@@ -1,0 +1,219 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-17 01:43:31 --> 404 Page Not Found:  ip- 160.72.44.100 https://888seats.com/blog/assets/logo/favicon.ico
+ERROR - 2022-03-17 01:43:31 --> 404 Page Not Found:  ip- 160.72.44.100 https://888seats.com/blog/assets/logo/icon.jpg
+ERROR - 2022-03-17 02:33:46 --> 404 Page Not Found:  ip- 212.102.44.72 https://888seats.com/blog/assets/logo/icon.jpg
+ERROR - 2022-03-17 02:37:30 --> 404 Page Not Found:  ip- 212.102.44.72 https://888seats.com/blog/assets/logo/icon.jpg
+ERROR - 2022-03-17 00:07:39 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 00:10:51 --> 404 Page Not Found: /index ip- 207.46.13.181 https://www.888seats.com/ncaa-football/auburn-tigers-tickets
+ERROR - 2022-03-17 00:14:04 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 00:16:12 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 00:21:06 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 00:22:39 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 00:37:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 00:39:08 --> 404 Page Not Found: /index ip- 77.88.5.246 https://888seats.com/hot-united-center-tickets
+ERROR - 2022-03-17 00:51:02 --> 404 Page Not Found: /index ip- 207.46.13.77 https://www.888seats.com/mlb-baseball/new-york-yankees-tickets/08-11-2019-toronto-on-rogers-centre
+ERROR - 2022-03-17 00:52:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 00:54:27 --> 404 Page Not Found: /index ip- 66.102.6.177 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 01:06:22 --> 404 Page Not Found: /index ip- 157.55.39.142 https://www.888seats.com/rock/lord-huron-widowspeak-tickets
+ERROR - 2022-03-17 01:07:39 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 01:18:06 --> 404 Page Not Found: /index ip- 207.46.13.77 https://888seats.com/comedy/bill-maher-tickets
+ERROR - 2022-03-17 01:21:06 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 01:22:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 01:37:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 01:52:39 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 02:01:28 --> 404 Page Not Found: /index ip- 74.125.213.45 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 02:07:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 02:21:17 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 02:22:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 02:37:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 02:54:47 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 03:07:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 03:11:45 --> 404 Page Not Found: /index ip- 66.249.84.173 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 03:21:26 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 03:22:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 03:29:06 --> 404 Page Not Found: /index ip- 157.55.39.115 https://www.888seats.com/mlb-baseball/san-francisco-giants-tickets
+ERROR - 2022-03-17 03:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 03:52:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 04:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 04:21:21 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 04:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 04:37:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 04:52:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 05:07:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 05:21:28 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 05:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 05:37:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 05:48:51 --> 404 Page Not Found: /index ip- 157.55.39.115 https://888seats.com/sales-terms
+ERROR - 2022-03-17 05:52:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 05:55:51 --> 404 Page Not Found: /index ip- 157.55.39.142 https://www.888seats.com/nhl-hockey/nhl-playoffs
+ERROR - 2022-03-17 06:07:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 06:21:23 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 06:21:35 --> 404 Page Not Found: /index ip- 66.102.6.177 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 06:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 06:37:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 06:52:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 07:07:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 07:21:20 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 07:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 07:30:53 --> 404 Page Not Found: /index ip- 66.102.6.173 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 07:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 07:52:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 08:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 08:21:24 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 08:22:38 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 08:25:13 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:16 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:23 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:33 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:41 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:48 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:50 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:25:57 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:26:01 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:26:04 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:26:08 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:26:17 --> 404 Page Not Found: /index ip- 173.212.216.3 https://www.888seats.com/venue-results
+ERROR - 2022-03-17 08:34:36 --> 404 Page Not Found: /index ip- 154.38.101.29 https://888seats.com/.vscode/sftp.json
+ERROR - 2022-03-17 08:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 08:52:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 09:03:18 --> 404 Page Not Found: /index ip- 157.55.39.115 https://www.888seats.com/comedy/cedric-the-entertainer-tickets
+ERROR - 2022-03-17 09:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/xmlrpc.php
+ERROR - 2022-03-17 19:10:52 --> 404 Page Not Found:  ip- 52.91.249.86 https://888seats.com/blog/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/web/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/wordpress/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/website/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/wp/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/news/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/2020/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/2019/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/shop/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/wp1/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/test/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:52 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/wp2/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:53 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/site/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:53 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/cms/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:10:53 --> 404 Page Not Found: /index ip- 52.91.249.86 https://888seats.com/sito/wp-includes/wlwmanifest.xml
+ERROR - 2022-03-17 09:21:28 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 09:22:06 --> 404 Page Not Found: /index ip- 74.125.213.45 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 09:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 09:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 09:52:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 09:53:20 --> 404 Page Not Found: /index ip- 162.144.134.143 http://888seats.com/wordpress
+ERROR - 2022-03-17 10:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 10:21:20 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 10:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 20:27:57 --> Severity: Warning --> get_headers(https://dtr2k13nvgx2o.cloudfront.net/auto-resized/responsive-images/performer/3653/3653-1200x250.jpg): failed to open stream: Connection timed out /home/seats/public_html/FR/modules/home/controllers/Home.php 502
+ERROR - 2022-03-17 10:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 10:52:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 11:05:24 --> 404 Page Not Found: /index ip- 207.46.13.207 https://www.888seats.com/nfl-football/detroit-lions-tickets/12-03-2017-baltimore-md-m-t-bank-stadium
+ERROR - 2022-03-17 11:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 11:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 11:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 11:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 11:44:26 --> 404 Page Not Found: /index ip- 157.55.39.154 https://www.888seats.com/resetting/request
+ERROR - 2022-03-17 11:44:48 --> 404 Page Not Found: /index ip- 66.249.84.175 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 11:52:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 12:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 12:21:34 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 12:22:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 12:37:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 22:47:54 --> 404 Page Not Found:  ip- 185.191.171.44 https://888seats.com/blog/search
+ERROR - 2022-03-17 12:49:51 --> 404 Page Not Found: /index ip- 66.249.64.114 http://888seats.com/tickets-online-sports/ncaa-football/minnesota-golden-gophers
+ERROR - 2022-03-17 12:52:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 12:54:01 --> 404 Page Not Found: /index ip- 135.181.62.220 http://888seats.com/ads.txt
+ERROR - 2022-03-17 12:54:41 --> 404 Page Not Found: /index ip- 66.102.6.175 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 13:07:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 13:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 13:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 13:34:35 --> 404 Page Not Found: /index ip- 157.55.39.142 https://www.888seats.com/mlb-baseball/st-louis-cardinals-tickets/07-17-2017-flushing-ny-citi-field
+ERROR - 2022-03-17 13:37:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 13:52:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 14:02:16 --> 404 Page Not Found: /index ip- 74.125.213.49 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 14:07:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 14:21:20 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 14:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 14:37:37 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 14:52:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 15:07:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 15:09:26 --> 404 Page Not Found: /index ip- 74.125.213.45 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 15:17:08 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) /home/seats/public_html/CI/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-03-17 15:17:08 --> Unable to connect to the database
+ERROR - 2022-03-17 15:17:08 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) /home/seats/public_html/CI/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-03-17 15:17:08 --> Unable to connect to the database
+ERROR - 2022-03-17 15:17:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) /home/seats/public_html/CI/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-03-17 15:17:12 --> Unable to connect to the database
+ERROR - 2022-03-17 15:17:12 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) /home/seats/public_html/CI/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-03-17 15:17:12 --> Unable to connect to the database
+ERROR - 2022-03-17 15:17:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) /home/seats/public_html/CI/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-03-17 15:17:13 --> Unable to connect to the database
+ERROR - 2022-03-17 15:17:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) /home/seats/public_html/CI/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2022-03-17 15:17:13 --> Unable to connect to the database
+ERROR - 2022-03-17 15:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 15:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 15:37:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 15:52:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 16:07:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 16:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 16:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 16:37:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 16:52:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 16:54:43 --> 404 Page Not Found: /index ip- 66.249.93.214 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 17:07:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 17:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 17:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 17:37:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 17:52:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 18:07:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 18:14:25 --> 404 Page Not Found: /index ip- 66.102.6.177 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 18:14:25 --> 404 Page Not Found: /index ip- 66.102.6.175 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 18:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 18:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 18:37:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 18:43:38 --> 404 Page Not Found: /index ip- 150.158.26.26 https://888seats.com/xmlrpc.php
+ERROR - 2022-03-17 18:52:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 19:07:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 19:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 19:22:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 19:36:12 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/authenticate
+ERROR - 2022-03-17 19:36:12 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/authenticate
+ERROR - 2022-03-17 19:37:36 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 19:39:38 --> 404 Page Not Found: /index ip- 66.102.6.173 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 19:52:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 19:54:24 --> 404 Page Not Found: /index ip- 66.249.64.114 http://888seats.com/ads.txt
+ERROR - 2022-03-17 19:54:28 --> 404 Page Not Found: /index ip- 66.249.64.126 https://888seats.com/ads.txt
+ERROR - 2022-03-17 19:57:20 --> 404 Page Not Found: /index ip- 116.179.37.189 http://888seats.com/assets/home/images/category-74.jpg
+ERROR - 2022-03-17 20:06:02 --> 404 Page Not Found: /index ip- 158.62.2.88 http://888seats.com/wp-login.php
+ERROR - 2022-03-17 20:07:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 20:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 20:22:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 20:31:15 --> 404 Page Not Found: /index ip- 157.55.39.142 https://888seats.com/comedy/jerry-seinfeld-tickets
+ERROR - 2022-03-17 20:37:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 20:48:16 --> 404 Page Not Found: /index ip- 74.125.213.47 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 20:52:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 21:03:49 --> 404 Page Not Found: /index ip- 167.172.56.36 http://888seats.com/wp-login.php
+ERROR - 2022-03-17 21:07:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 21:13:03 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/authenticate
+ERROR - 2022-03-17 21:21:26 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 21:22:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 21:23:16 --> 404 Page Not Found: /index ip- 207.46.13.77 https://888seats.com/nfl-football/tampa-bay-buccaneers-tickets
+ERROR - 2022-03-17 21:25:41 --> 404 Page Not Found: /index ip- 135.181.93.182 https://mail.888seats.com/owa
+ERROR - 2022-03-17 21:37:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 21:52:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 22:07:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 22:21:19 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 22:22:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 22:27:59 --> 404 Page Not Found: /index ip- 74.125.213.49 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 22:37:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 22:37:59 --> 404 Page Not Found: /index ip- 207.46.13.47 https://www.888seats.com/mlb-baseball/cincinnati-reds-tickets
+ERROR - 2022-03-17 22:52:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 23:07:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 23:21:18 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2022-03-17 23:21:41 --> 404 Page Not Found: /index ip- 157.55.39.142 https://www.888seats.com/rock/kansas-tickets
+ERROR - 2022-03-17 23:22:34 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 23:23:01 --> 404 Page Not Found: /index ip- 137.184.214.151 https://mail.888seats.com:443/owa/auth/logon.aspx
+ERROR - 2022-03-17 23:29:15 --> 404 Page Not Found: /index ip- 66.102.6.175 https://888seats.com/.well-known/traffic-advice
+ERROR - 2022-03-17 23:37:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2022-03-17 23:52:35 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm

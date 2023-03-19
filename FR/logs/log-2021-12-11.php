@@ -1,0 +1,156 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-11 00:13:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 00:28:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 00:40:43 --> 404 Page Not Found: /index ip- 40.77.167.17 https://888seats.com/ncaa-basketball/penn-state-nittany-lions-tickets
+ERROR - 2021-12-11 00:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 00:58:13 --> 404 Page Not Found: /index ip- 66.249.70.126 https://888seats.com/nhl-hockey/buffalo-sabres-tickets/11-30-2018-sunrise-fl-bb-t-center
+ERROR - 2021-12-11 00:58:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 01:13:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 01:28:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 12:33:30 --> 404 Page Not Found:  ip- 185.191.171.20 http://888seats.com/blog/search
+ERROR - 2021-12-11 01:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 12:46:23 --> 404 Page Not Found: ../modules/user/controllers/User/register ip- 91.102.231.245 http://888seats.com/user/register
+ERROR - 2021-12-11 01:58:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 01:58:42 --> 404 Page Not Found: /index ip- 66.249.70.99 https://888seats.com/ads.txt
+ERROR - 2021-12-11 02:13:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 02:28:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 02:28:52 --> 404 Page Not Found: /index ip- 66.249.70.116 http://888seats.com/ads.txt
+ERROR - 2021-12-11 02:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 02:54:43 --> 404 Page Not Found: /index ip- 114.119.131.105 http://888seats.com/sportsboxing-fighting
+ERROR - 2021-12-11 02:58:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 03:13:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 03:28:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 03:37:32 --> 404 Page Not Found: /index ip- 216.244.66.195 http://888seats.com/boxing-fighting/wwe-tickets
+ERROR - 2021-12-11 03:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 03:58:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 04:13:33 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 04:28:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 04:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 04:52:11 --> 404 Page Not Found: /index ip- 157.55.39.206 https://888seats.com/nfl-football/kansas-city-chiefs-tickets/12-22-2019-chicago-il-soldier-field-stadium-parking-lot
+ERROR - 2021-12-11 04:58:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:09:24 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/blog/category/classical-1
+ERROR - 2021-12-11 05:13:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:25:29 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/category/sports/soccer/mls
+ERROR - 2021-12-11 05:25:55 --> 404 Page Not Found: /index ip- 46.4.88.156 http://888seats.com/ads.txt
+ERROR - 2021-12-11 05:28:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:41:03 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/category/sports/wrestling/wwe
+ERROR - 2021-12-11 05:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 05:58:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:00:09 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/career
+ERROR - 2021-12-11 06:13:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:14:53 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/blog/category/basketball
+ERROR - 2021-12-11 06:28:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:30:02 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/category/sports/basketball/nba
+ERROR - 2021-12-11 06:43:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:45:25 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/category/sports/hockey/ncaa-hockey
+ERROR - 2021-12-11 06:58:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 18:01:11 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/blog/category/broadway
+ERROR - 2021-12-11 07:13:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 18:17:22 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/category/sports/baseball/pcl
+ERROR - 2021-12-11 07:28:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 07:32:00 --> 404 Page Not Found: /index ip- 20.114.46.219 http://888seats.com/.env
+ERROR - 2021-12-11 18:33:23 --> 404 Page Not Found:  ip- 135.181.42.128 https://888seats.com/blog/blog/category/alternative
+ERROR - 2021-12-11 07:43:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 07:52:33 --> 404 Page Not Found: /index ip- 157.55.39.146 https://www.888seats.com/comedy/jerry-seinfeld-tickets
+ERROR - 2021-12-11 07:58:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 08:13:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 08:28:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 08:43:32 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 08:45:37 --> 404 Page Not Found: /index ip- 23.102.105.136 http://888seats.com/.env
+ERROR - 2021-12-11 08:58:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 09:04:18 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:04:26 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:04:32 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:04:40 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:04:47 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:04:52 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:00 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:07 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:13 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:18 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:25 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:31 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:05:36 --> 404 Page Not Found: /index ip- 144.76.60.198 https://www.888seats.com/venue-results
+ERROR - 2021-12-11 09:13:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 09:28:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 09:43:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 09:58:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 10:08:24 --> 404 Page Not Found: /index ip- 66.249.64.205 https://www.888seats.com/ncaa-football/michigan-wolverines-tickets
+ERROR - 2021-12-11 10:13:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 10:28:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 10:43:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 10:48:26 --> 404 Page Not Found: /index ip- 91.241.19.243 https://888seats.com/newsletter
+ERROR - 2021-12-11 10:57:25 --> 404 Page Not Found: /index ip- 157.55.39.146 https://888seats.com/rock/kansas-tickets
+ERROR - 2021-12-11 10:58:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 11:13:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 22:18:05 --> 404 Page Not Found:  ip- 40.77.167.32 http://888seats.com/blog/hot/nascar-budweiser-duels
+ERROR - 2021-12-11 11:27:39 --> 404 Page Not Found: /index ip- 114.119.130.96 http://888seats.com/comedy/kevin-hart-tickets.html
+ERROR - 2021-12-11 11:28:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 11:43:17 --> 404 Page Not Found: /index ip- 207.46.13.183 https://888seats.com/rock/def-leppard-reo-speedwagon-tesla-tickets
+ERROR - 2021-12-11 11:43:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 11:58:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 12:13:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 12:14:33 --> 404 Page Not Found: /index ip- 40.77.167.60 https://www.888seats.com/nfl-football/pittsburgh-steelers-tickets/11-03-2019-pittsburgh-pa-heinz-field-parking-lots
+ERROR - 2021-12-11 12:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 12:43:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 12:58:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 13:13:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 13:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 13:43:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 13:56:44 --> 404 Page Not Found: /index ip- 40.77.167.60 https://888seats.com/ncaa-football/georgia-bulldogs
+ERROR - 2021-12-11 13:58:31 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 14:13:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 14:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 14:43:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 14:58:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 15:05:12 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/venue-results
+ERROR - 2021-12-11 15:13:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 15:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 15:43:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 15:58:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:13:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:43:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 16:57:58 --> 404 Page Not Found: /index ip- 73.182.48.85 https://888seats.com/apple-touch-icon.png
+ERROR - 2021-12-11 16:57:58 --> 404 Page Not Found: /index ip- 73.182.48.85 https://888seats.com/apple-touch-icon-precomposed.png
+ERROR - 2021-12-11 16:58:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:13:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:43:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 17:58:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 18:13:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 18:28:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 18:40:45 --> 404 Page Not Found: /index ip- 216.244.66.195 http://888seats.com/country-folk/jason-aldean-thomas-rhett
+ERROR - 2021-12-11 18:43:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 18:58:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 19:13:30 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 19:21:22 --> 404 Page Not Found: /index ip- 207.46.13.34 https://888seats.com/venue-results
+ERROR - 2021-12-11 19:28:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 19:43:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 19:58:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 20:13:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 20:15:59 --> 404 Page Not Found: /index ip- 157.55.39.206 https://888seats.com/nfl-football/atlanta-falcons-tickets/11-10-2019-new-orleans-la-mercedes-benz-superdome-parking-lot
+ERROR - 2021-12-11 20:28:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 20:43:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 20:58:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 21:08:32 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/venue-results
+ERROR - 2021-12-11 21:13:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 21:28:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 21:31:44 --> 404 Page Not Found: /index ip- 20.211.188.95 http://888seats.com/_ignition/execute-solution
+ERROR - 2021-12-11 21:31:44 --> 404 Page Not Found: /index ip- 20.211.188.95 https://888seats.com/_ignition/execute-solution
+ERROR - 2021-12-11 21:38:37 --> 404 Page Not Found: /index ip- 216.244.66.195 http://888seats.com/broadway/the-lion-king-tickets
+ERROR - 2021-12-11 21:43:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 21:52:49 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/ncaa-basketball/utah-state-aggies-tickets
+ERROR - 2021-12-11 21:58:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 22:13:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 22:28:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 22:38:02 --> 404 Page Not Found: /index ip- 216.244.66.195 http://www.888seats.com/venue-results
+ERROR - 2021-12-11 22:43:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 22:58:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 23:13:28 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 23:14:30 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2021-12-11 23:16:00 --> 404 Page Not Found: /index ip- 149.56.73.115 http://888seats.com/wordpress/wp-cron.php
+ERROR - 2021-12-11 23:28:29 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 23:43:28 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
+ERROR - 2021-12-11 23:58:28 --> 404 Page Not Found: /index ip- 149.56.73.122 https://www.888seats.com/cacrm
